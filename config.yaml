@@ -1,0 +1,46 @@
+# Common.
+baseURL: "https://mxs.sbrk.org/"
+title: "Yet Another Bunch of Bytes"
+languageCode: "en-us"
+contentdir: "content"
+publishdir: "public"
+
+# Menu.
+sectionPagesMenu: "navigation"
+menu:
+  navigation:
+    - identifier: "about"
+      name: "About"
+      title: "About"
+      url: /about
+      weight: 1
+    - identifier: "projects"
+      name: "Projects"
+      title: "Projects"
+      url: /projects
+      weight: 2
+    - identifier: "photography"
+      name: "Photography"
+      title: "Photography"
+      url: /photography
+      weight: 3
+    - identifier: "writings"
+      name: "Writings"
+      title: "Writings"
+      url: /writings
+      weight: 4
+    - identifier: "code"
+      name: "Code"
+      title: "Code"
+      url: /code
+      weight: 5
+    - identifier: "music"
+      name: "Music"
+      title: "Music"
+      url: /music
+      weight: 6
+    - identifier: "logs"
+      name: "logs"
+      title: "logs"
+      url: /var/log
+      weight: 7
