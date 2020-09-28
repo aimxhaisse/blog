@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article lang="en">
+  <header>
+    <h1>{{ .Title }}</h1>
+
+    {{ if .Params.image }}
+    <img src="{{ .Params.image }}" />
+    {{ end }}
+
+    {{ if .Params.audio }}
+    {{ partial "audio.html" . }}
+    {{ end }}
+
+    {{ if .Description }}
+    <small>{{ .Description | safeHTML }}</small>
+    {{ end }}
+
+  </header>
+  <div id="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

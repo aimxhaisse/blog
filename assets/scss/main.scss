@@ -1,0 +1,177 @@
+// A theme inspired by Curtana.
+//
+// This is a light-ish version adapted for my needs, it doesn't
+// cover the full spectrum of features Curtana does.
+
+@import "reset";
+
+// Variables.
+:root {
+    --color-dark-bg: #242323;
+    --color-light-bg: #343131;
+    --color-text: #ffe7e5;
+    --color-text-hl: #ff4238;
+
+    --color-icon-reset: #000000;
+    --color-icon-hl: #ffe7e5;
+    --color-icon-on: #ff5a51;
+
+
+    --font-family: "Helvetica Neue", "Segoe UI", sans-serif;
+    --space: 24vw;
+}
+
+:root {
+    --font-size: 1.1vw;
+    --side-padding: calc(var(--space) * 1.2);
+}
+
+@media (max-width: 1600px) {
+    :root {
+	--font-size: 1.6vw;
+	--side-padding: calc(var(--space) * 1.1);
+    }
+}
+
+@media (max-width: 1080px) {
+    :root {
+	--font-size: 2.25vw;
+	--side-padding: calc(var(--space) * 0.5);
+    }
+}
+
+@media (max-width: 640px) {
+    :root {
+	--font-size: 2.80vw;
+	--side-padding: calc(var(--space) * 0.3);
+    }
+}
+
+@media (max-width: 400px) {
+    :root {
+	--font-size: 3.50vw;
+	--side-padding: calc(var(--space) * 0.15);
+    }
+}
+
+// Common.
+html {
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: 1.5;
+    background-color: var(--color-dark-bg);
+    color: var(--color-text);
+}
+
+p {
+    margin-bottom: calc(var(--space) * 0.1);
+    margin-top: calc(var(--space) * 0.1);
+}
+
+p.dark {
+    color: var(--color-text);opacity: 0.4;
+}
+
+p.near-dark {
+    color: var(--color-text);opacity: 0.6;
+}
+
+p.huge {
+    font-size: 400%;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-text);
+}
+
+a:hover {
+    color: var(--color-text-hl);
+}
+
+div.small-image-right {
+    float: right;
+    width: 45%;
+    margin: calc(var(--font-size) * 0.25);
+}
+
+h1 {
+    line-height: 1.1;
+    font-size: 300%;
+    font-weight: 700;
+    letter-spacing: -.038em;
+    margin: 2vmin 0 2vmin 0;
+}
+
+small {
+    font-size: smaller;
+}
+
+// Navigation.
+nav {
+    padding: 0.75vmax var(--side-padding) 0.75vmax var(--side-padding);
+
+    ul {
+	li {
+	    display: inline-block;
+	    font-size: 90%;
+	    line-height: 2;
+	    font-weight: 700;
+	    text-transform: uppercase;
+	    padding: .5em 1.4vmax 0 0;
+
+	    .active{
+		color: var(--color-text-hl);
+	    }
+	}
+    }
+}
+
+// Content.
+article {
+    header {
+	h1 {
+	    text-align: left;
+	}
+	padding: 4vmin var(--side-padding) 4vmin var(--side-padding);
+	margin: 0 0 8vmin 0;
+	background-color: var(--color-light-bg);
+	font-size: 130%;
+
+	text-align: right;
+    }
+
+    .audio-icon {
+	width: calc(var(--font-size) * 7);
+	margin: 0 calc(var(--font-size) * 1.5) 0 0;
+	float: left;
+    }
+	
+    #content {
+	font-size: 130%;
+	padding: 0 var(--side-padding) 0 var(--side-padding);
+	margin: 0 0 16vmin 0;
+
+	h2 {
+	    font-size: 90%;
+	    font-weight: 400;
+	    text-transform: lowercase;
+	    margin: 1rem 0 1rem 0;
+	    opacity: 0.5;
+	}
+    }
+}
+
+footer {
+    font-size: 90%;
+    padding: 0 var(--side-padding) 0 var(--side-padding);
+    margin: 0 0 16vmin 0;
+
+    li {
+	display: inline;
+    }
+}

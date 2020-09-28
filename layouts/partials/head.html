@@ -1,0 +1,18 @@
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="mxs">
+
+{{- $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | resources.ToCSS }}
+
+<link rel="stylesheet" href="{{ $styles.Permalink }}">
+
+{{- $lightense := resources.Get "js/lightense.js" | resources.Minify }}
+{{- $jquery := resources.Get "js/jquery-3.4.1.js" | resources.Minify }}
+{{- $main := resources.Get "js/main.js" | resources.Minify }}
+
+<script type="text/javascript" src="{{ $lightense.Permalink }}"></script>
+<script type="text/javascript" src="{{ $jquery.Permalink }}"></script>
+<script type="text/javascript" src="{{ $main.Permalink }}"></script>
+
+<title>mxs</title>

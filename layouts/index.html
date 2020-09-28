@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article lang="en">
+  <header>
+    <h1><a href="https://mxs.sbrk.org/">mxs.sbrk.org</a></h1>
+    <small>a.k.a Sébastien Rannou</small>
+  </header>
+  <div id="content">
+    <h2></h2>
+    <ul>
+      {{ range $.Site.Pages.ByWeight.Reverse }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</article>
+{{ end }}

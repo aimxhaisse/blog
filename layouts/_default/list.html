@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article lang="en">
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}
+    <small>{{ .Description | safeHTML }}</small>
+    {{ end }}
+  </header>
+  <div id="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
