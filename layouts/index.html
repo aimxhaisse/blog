@@ -5,10 +5,11 @@
     <small>a.k.a Sébastien Rannou</small>
   </header>
   <div id="content">
-    <h2>Unsorted Pages</h2>
     <ul>
-      {{ range $.Site.Pages }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ range $.Site.RegularPages }}
+      {{ if eq .FirstSection.Section .Section }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title | humanize }}</a></li>
+      {{ end }}
       {{ end }}
     </ul>
   </div>
