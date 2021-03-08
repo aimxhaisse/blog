@@ -2,12 +2,19 @@
 <article lang="en">
   <header>
     <h1>{{ .Title }}</h1>
+
     {{ if .Description }}
     <small>{{ .Description | safeHTML }}</small>
     {{ end }}
   </header>
   <div id="content">
-    {{ .Content }}
+    <ul>
+    {{ range .Pages }}
+    <li>
+      <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} . {{.Title}}</a>
+    </li>
+    {{ end }}
+    </ul>
   </div>
 </article>
 {{ end }}

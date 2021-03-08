@@ -1,6 +1,9 @@
 <nav>
   <ul>
     {{ $currentPage := . }}
+    <li>
+      <a class="active" href="/" title="/">/</a>
+    </li>
     {{ range .Site.Menus.navigation }}
     <li>
       <a class="{{ if (eq $currentPage.RelPermalink .URL) }}active{{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
