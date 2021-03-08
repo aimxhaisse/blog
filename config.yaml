@@ -19,9 +19,9 @@ menu:
       title: "Projects"
       url: /projects
       weight: 2
-    - identifier: "photography"
-      name: "Photography"
-      title: "Photography"
+    - identifier: "photo"
+      name: "Photo"
+      title: "Photo"
       url: /photography
       weight: 3
     - identifier: "writings"

@@ -1,0 +1,26 @@
+---
+layout: default
+title: mxs
+permalink: /
+---
+
+<article>
+
+  <header>
+    <h1 class=amsf-title>
+      <a class=txt href="http://mxs.sbrk.org/">mxs</a>
+      <b><a href="http://github.com/aimxhaisse"><i class="fa fa-lg fa-github-alt"></i></a></b>
+      <b><a href="http://twitter.com/aimxhaisse"><i class="fa fa-lg fa-twitter"></i></a></b>
+      <b><a href="https://500px.com/mxhsse"><i class="fa fa-lg fa-500px"></i></a></b>
+      <b><a href="mailto:mxs@sbrk.org"><i class="fa fa-lg fa-envelope"></i></a></b>
+      <b><a href="{{ site.feed | prepend: site.base }}"><i class="fa fa-lg fa-rss"></i></a></b>
+    </h1>
+    <small>
+      <b>a.k.a</b> Sébastien Rannou
+    </small>
+  </header>
+
+  {% assign items = site.posts %}
+  {% include page-items.html %}
+
+</article>
