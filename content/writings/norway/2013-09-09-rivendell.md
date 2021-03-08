@@ -22,7 +22,7 @@ en échange de chocolat, ou de quelconque source de nourriture autre
 que du riz rond, ou plus simplement et moins cher, de lui casser les
 dents.
 
-<img src="/public/img/norway/jour4-matin.jpg" data-action="zoom" />
+<img src="/img/norway/jour4-matin.jpg" data-action="zoom" />
 
 On a quitté le pied du Snøhetta assez tôt pour continuer vers un
 endroit où il y a du vert sur la carte (probablement des arbres), ça
@@ -40,7 +40,7 @@ moins débiles, on aurait pu éviter quatres jours à se rincer la bouche
 avec le goût de chlore des pastilles purificatrices d'eau (ça a le nom
 impressionant d'un objet de quête, il n'en est rien).
 
-<img src="/public/img/norway/jour4-tundra.jpg" data-action="zoom" />
+<img src="/img/norway/jour4-tundra.jpg" data-action="zoom" />
 
 On quitte le lac et on croise un couple de trekkeurs
 norvégiens/allemands qui vont vers le Snøhetta, les seules personnes
@@ -56,7 +56,7 @@ sortent de partout. La descente du glacier est un peu casse gueule
 mais vaut le coût, ça ressemble à Rivendell, sans les elfes mais avec
 des traces de pokémons à la place.
 
-<img src="/public/img/norway/jour4-torrent.jpg" data-action="zoom" />
+<img src="/img/norway/jour4-torrent.jpg" data-action="zoom" />
 
 Rétrospectivement c'est l'endroit le plus classe du monde où j'ai pu
 mettre les pieds. Comme il faut 2 jours de marche pour arriver dans
@@ -69,6 +69,6 @@ LE méga feu (qui n'a rien d'un méga feu, mais vu qu'on l'alimente avec
 du bois et non avec des racines humides comme depuis le début, ça
 fonctionne mieux).
 
-<img src="/public/img/norway/jour4-vallee.jpg" data-action="zoom" />
+<img src="/img/norway/jour4-vallee.jpg" data-action="zoom" />
 
 [La suite par ici...]({% post_url writings/norway/2013-09-10-charles-ingalls %})

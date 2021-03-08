@@ -20,7 +20,7 @@ de carte en me disant que c'était impossible de rater un tel lac en
 étant sobre. Je ne l'ai pas volée et je retourne à la tente où Faltad
 est reveillé.
 
-<img src="/public/img/norway/jour3-matin.jpg" data-action="zoom" />
+<img src="/img/norway/jour3-matin.jpg" data-action="zoom" />
 
 On prend la direction du Snøhetta vers 9h15. on est Samedi et il y a
 pas mal de norvégiens sur les chemins avec des petits sacs à dos pour
@@ -36,7 +36,7 @@ impressionnant et les distances sont complètement faussées: de loin on
 a l'impression que c'est facile mais plus on avance plus c'est
 compliqué, on a mal à toutes les articulations avec les sacs de 15kg.
 
-<img src="/public/img/norway/jour3-glacier.jpg" data-action="zoom" />
+<img src="/img/norway/jour3-glacier.jpg" data-action="zoom" />
 
 Arrivés vers le milieu du pierrier une bonne heure plus tard, on se
 fait dépasser par un groupe de norvégiens. À tout hasard on demande si
@@ -51,7 +51,7 @@ mouillés. Par moments j'entends de gros ploufs et je me retourne pour
 voir Faltad qui regarde si ses chaussures ont pris l'eau. Par miracle
 on est secs une fois de l'autre coté.
 
-<img src="/public/img/norway/jour3-pierrier.jpg" data-action="zoom" />
+<img src="/img/norway/jour3-pierrier.jpg" data-action="zoom" />
 
 Il est 11h30, et on doit recommencer pas loin de zéro, on a mal
 partout, on a faim, on s'arrête toutes les 2/3 minutes pour reprendre
@@ -78,7 +78,7 @@ ronde). Dedans, il y a une tablette de chocolat et des... des
 DINOSAURUS!  Ils sont un peu écrasés dans tous les sens et on a du mal
 à deviner qu'à la base ça avait une forme.
 
-<img src="/public/img/norway/jour3-dinosaurus.jpg" data-action="zoom" />
+<img src="/img/norway/jour3-dinosaurus.jpg" data-action="zoom" />
 
 Après quelques minutes riches en chocolat, on continue vers... Euh?
 il est où le chemin? Il n'y en a pas vraiment et on doit suivre des
@@ -93,7 +93,7 @@ nord dans une vallée où aucun norvégien ne s'aventure (ça me rapelle
 un truc mais je ne sais pas quoi). C'est un chemin compliqué et assez
 technique, la descente est lente et longue.
 
-<img src="/public/img/norway/jour3-snohetta.jpg" data-action="zoom" />
+<img src="/img/norway/jour3-snohetta.jpg" data-action="zoom" />
 
 On s'arrête un moment pour manger du bon riz rond, qu'importe j'ai
 toujours le goût des Dinosaurus dans la bouche. Quand on pense avoir
@@ -111,7 +111,7 @@ journée de Faltad: il est jusqu'aux genous dans une sorte de mousse
 sous laquelle il y avait plein d'eau, pas la peine de demander si ses
 chaussures ont pris l'eau cette fois.
 
-<img src="/public/img/norway/jour3-coucher.jpg" data-action="zoom" />
+<img src="/img/norway/jour3-coucher.jpg" data-action="zoom" />
 
 En bas de la vallée le vent est un gros problème, il y a des rafales à
 80-90km/h en permanence et aucun abris pour s'en protéger. On arrive à

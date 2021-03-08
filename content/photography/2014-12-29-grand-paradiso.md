@@ -8,4 +8,4 @@ plugin: lightense
 title: gran paradiso
 ---
 
-<img src="/public/img/photography/gran-paradiso.jpg" data-action="zoom" />
+<img src="/img/photography/gran-paradiso.jpg" data-action="zoom" />

@@ -8,4 +8,4 @@ plugin: lightense
 title: république
 ---
 
-<img src="/public/img/photography/republique.jpg" data-action="zoom" />
+<img src="/img/photography/republique.jpg" data-action="zoom" />

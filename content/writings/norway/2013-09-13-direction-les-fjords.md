@@ -16,7 +16,7 @@ on hésite à lui demander mais on se dit qu'il ne doit pas aller bien
 loin. On décide de faire du stop jusqu'à Isfjorden, donc on suit la
 route en espérant tomber sur un Norvégien qui n'a pas peur de nous.
 
-<img src="/public/img/norway/jour8-route.jpg" data-action="zoom" />
+<img src="/img/norway/jour8-route.jpg" data-action="zoom" />
 
 La route monte. Beaucoup. Au bout de quelques kilomètres, on fait une
 pause. On descend le litre de coca restant pour gagner un peu de
@@ -36,7 +36,7 @@ un bruit de moteur qui galère, et on voit débarquer... le bus scolaire
 du parking. On devrait être aigris, mais après le drame du riz au
 coca, plus rien ne peut atteindre notre intégrité mentale.
 
-<img src="/public/img/norway/jour8-courbe.jpg" data-action="zoom" />
+<img src="/img/norway/jour8-courbe.jpg" data-action="zoom" />
 
 Quelques voitures plus loin, on abandonne l'idée du stop et on ressort
 la carte, de laquelle on doit être en dehors de quelques
@@ -47,7 +47,7 @@ avait oublié depuis le retour à la civilisation. On espère que le pied
 de Faltad ne va pas exploser à force de gonfler, car une fois là haut,
 on ne pourra pas faire de retour en arrière facilement.
 
-<img src="/public/img/norway/jour8-cabane.jpg" data-action="zoom" />
+<img src="/img/norway/jour8-cabane.jpg" data-action="zoom" />
 
 Un petit ruisseau borde le chemin et j'en profite pour pêcher en
 marchant, je prends quelques truites qu'on relâche vu qu'on a fait le
@@ -61,7 +61,7 @@ le chemin qui se sépare en deux. On va chercher du bois pour faire un
 feu lorsque la pluie commence à tomber, on décide le garder au sec en
 attendant que ça passe.
 
-<img src="/public/img/norway/jour8-tente.jpg" data-action="zoom" />
+<img src="/img/norway/jour8-tente.jpg" data-action="zoom" />
 
 Mais ça dure, et on a faim, donc on fini par manger dans la tente en
 lisant et en écrivant. Le repas est typiquement norvégien: cacahuètes,
@@ -71,7 +71,7 @@ des pâtes. On a 1kg de ketchup donc on met la grosse dose, avant de
 s'endormir sous la pluie, en espérant ne pas se réveiller mouillés au
 petit matin (niark niark niark niark).
 
-<img src="/public/img/norway/jour8-miam.jpg" data-action="zoom" />
+<img src="/img/norway/jour8-miam.jpg" data-action="zoom" />
 
 
 [La suite par ici...]({% post_url writings/norway/2013-09-14-pizza %})

@@ -6,7 +6,7 @@ date: "2010-10-01T00:00:00Z"
 title: About Net Neutrality
 ---
 
-I've been writing [a short response](/public/net_neutrality.pdf) to
+I've been writing [a short response](/net_neutrality.pdf) to
 the questionnaire on Net neutrality issued by the European
 Commission. I only tried to answer a few questions as I hadn't much
 time, and as I was not able to formulate real answers to others

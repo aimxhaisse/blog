@@ -8,4 +8,4 @@ plugin: lightense
 title: sur un point fixe
 ---
 
-<img src="/public/img/photography/point-fixe.jpg" data-action="zoom" />
+<img src="/img/photography/point-fixe.jpg" data-action="zoom" />

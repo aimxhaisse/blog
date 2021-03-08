@@ -11,7 +11,7 @@ Avant dernière journée sur laquelle j'ai peu à raconter car on a pas
 fait grand chose à cause de la pluie, mon carnet illustre plutôt bien
 cet échec:
 
-<img src="/public/img/norway/jour11-carnet.jpg" data-action="zoom" />
+<img src="/img/norway/jour11-carnet.jpg" data-action="zoom" />
 
 Donc, probablement la journée la moins intéressante du voyage, on a
 mangé des trucs bizarres, dormi, lu, dormi, tourné en rond, mangé des
@@ -19,7 +19,7 @@ trucs bizarres une nouvelle fois, et dormi. Rétrospectivement, à la
 vue de la pluie sur les derniers jours, on se dit qu'on a eu de la
 chance d'avoir eu du beau temps pendant 90% du voyage.
 
-<img src="/public/img/norway/jour11-weird.jpg" data-action="zoom" />
+<img src="/img/norway/jour11-weird.jpg" data-action="zoom" />
 
 Après la super journée d'hier où on a rien fait, on remballe le
 matériel pour prendre le train de retour qui nous amènera à Oslo où
@@ -38,7 +38,7 @@ voyage grâce à quelques photos qu'on avait prises alors, la différence
 est assez impressionante: on dirait qu'une saison est passée, les
 arbres sont devenus roux.
 
-<img src="/public/img/norway/jour11-river.jpg" data-action="zoom" />
+<img src="/img/norway/jour11-river.jpg" data-action="zoom" />
 
 Arrivé à la gare, je me regarde dans une glace pour la première fois
 depuis 12 jours, et je fais peur: genre j'ai une moustache.

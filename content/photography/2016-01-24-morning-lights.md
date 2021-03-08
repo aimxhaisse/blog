@@ -8,4 +8,4 @@ plugin: lightense
 title: morning lights
 ---
 
-<img src="/public/img/photography/morning-lights.jpg" data-action="zoom" />
+<img src="/img/photography/morning-lights.jpg" data-action="zoom" />

@@ -19,7 +19,7 @@ the lock which make it hard to fit a Volca (I've tried and failed).
 
 Here are some pictures of what it looks like:
 
-<img src="/public/img/volca/volca-case-1.jpg" data-action="zoom" />
-<img src="/public/img/volca/volca-case-2.jpg" data-action="zoom" />
-<img src="/public/img/volca/volca-case-3.jpg" data-action="zoom" />
-<img src="/public/img/volca/volca-case-4.jpg" data-action="zoom" />
+<img src="/img/volca/volca-case-1.jpg" data-action="zoom" />
+<img src="/img/volca/volca-case-2.jpg" data-action="zoom" />
+<img src="/img/volca/volca-case-3.jpg" data-action="zoom" />
+<img src="/img/volca/volca-case-4.jpg" data-action="zoom" />

@@ -8,4 +8,4 @@ plugin: lightense
 title: montparnasse
 ---
 
-<img src="/public/img/photography/montparnasse.jpg" data-action="zoom" />
+<img src="/img/photography/montparnasse.jpg" data-action="zoom" />

@@ -8,4 +8,4 @@ plugin: lightense
 title: waking up in the clouds
 ---
 
-<img src="/public/img/photography/norway-morning-lake.jpg" data-action="zoom" />
+<img src="/img/photography/norway-morning-lake.jpg" data-action="zoom" />

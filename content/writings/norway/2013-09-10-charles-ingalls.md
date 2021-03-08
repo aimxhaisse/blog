@@ -21,7 +21,7 @@ moi".  Il y a des refuges de dessinés sur la carte à quelques
 kilomètres et on espère en trouver là-bas (du chocolat, pas des
 refuges).
 
-<img src="/public/img/norway/jour5-beau.jpg" data-action="zoom" />
+<img src="/img/norway/jour5-beau.jpg" data-action="zoom" />
 
 On descend en altitude et on suit un chemin dans la forêt qui borde le
 torrent ; on passe à coté d'autoroutes à fourmis qui se rejoignent
@@ -59,7 +59,7 @@ Silence génant de quelques secondes. Les regards. Au secours.
 
 - _Tout le monde_ (dans un mix de norvégien, d'allemand, et anglais): Tchuss!
 
-<img src="/public/img/norway/jour5-maison.jpg" data-action="zoom" />
+<img src="/img/norway/jour5-maison.jpg" data-action="zoom" />
 
 On continue notre descente et on traverse le torrent grâce à un pont
 en bois probablement entretenu par Charles. Merci Charles. Plus bas se
@@ -67,7 +67,7 @@ trouve un petit village quasi-désert où l'on croise deux bûcherons de
 la région qui travaillent dans la forêt, on a une petite discussion
 légèrement plus productive qu'avec ce bon vieux Charles.
 
-<img src="/public/img/norway/jour5-pont.jpg" data-action="zoom" />
+<img src="/img/norway/jour5-pont.jpg" data-action="zoom" />
 
 Point de chocolat dans le coin, on s'arrête pour manger des truites
 fumées qu'on avait gardées de la veille et que j'ai astucieusement
@@ -90,7 +90,7 @@ gardé depuis l'aéroport:
 > Hej! I don't need those 2 gas bottles anymore. So I let them here
   and feel free to take them.
 
-<img src="/public/img/norway/jour5-regis.jpg" data-action="zoom" />
+<img src="/img/norway/jour5-regis.jpg" data-action="zoom" />
 
 Contents de notre blague que personne ne comprendra, on reprend un peu
 d'altitude en grimpant sur un des flancs de la vallée. Arrivés en
@@ -98,14 +98,14 @@ haut, on est toujours aussi contents de notre blagounette, et en plus
 d'être contents on a une vue dégagée sur toute la vallée. Du coup on
 est super contents.
 
-<img src="/public/img/norway/jour5-haut.jpg" data-action="zoom" />
+<img src="/img/norway/jour5-haut.jpg" data-action="zoom" />
 
 On ouvre les pochettes surprises de Faltad et on y découvre des
 bonbons, du chocolat, et c'est trop bien. Il doit être environs 15h,
 et on décide de rusher pour les prochains refuges situés à une bonne
 dizaine de kilomètres, c'est plutôt débile mais on a pas peur.
 
-<img src="/public/img/norway/jour5-content.jpg" data-action="zoom" />
+<img src="/img/norway/jour5-content.jpg" data-action="zoom" />
 
 On traverse une zone désertique apparement réputée pour la présence de
 rennes. Malheuresement on n'en verra pas, mais en échange on croisera
@@ -133,7 +133,7 @@ regardant mieux, on découvre une troisième sorte de baie qu'on a aussi
 du manger sans le savoir, qui ressemble à deux gouttes d'eau aux
 autres.
 
-<img src="/public/img/norway/jour5-myrtilles.jpg" data-action="zoom" />
+<img src="/img/norway/jour5-myrtilles.jpg" data-action="zoom" />
 
 Une heure plus tard et toujours en vie, on arrive dans les environs du
 refuge et on tombe sur un chemin, on se dit qu'il n'y aura pas de
@@ -147,7 +147,7 @@ la tente dans le noir et on se prépare à partir tôt demain, en vue
 d'une ville située à 13 cases sur la carte (à vol d'oiseau environs 25
 kilomètres, mais comme on est pas des oiseaux ça sera beaucoup plus).
 
-<img src="/public/img/norway/jour5-reflexion.jpg" data-action="zoom" />
+<img src="/img/norway/jour5-reflexion.jpg" data-action="zoom" />
 
 
 [La suite par ici...]({% post_url writings/norway/2013-09-11-shortcut %})

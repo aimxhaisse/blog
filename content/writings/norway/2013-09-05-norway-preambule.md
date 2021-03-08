@@ -17,7 +17,7 @@ couvrir les 12 jours qui nous attendent au milieu de nulle part (nulle
 part étant approximativement dans les régions montagneuses du centre
 de la Norvège où s'étend le parc national de Dovrefjell).
 
-<img src="/public/img/norway/jour0-appart.jpg" data-action="zoom" />
+<img src="/img/norway/jour0-appart.jpg" data-action="zoom" />
 
 Beaucoup d'interrogations à propos de nulle part. Va-t-il faire -5°C
 ou bien 10°C? Y-a-t-il des gens? Y-a-t-il des ours? Si oui combien? Le
