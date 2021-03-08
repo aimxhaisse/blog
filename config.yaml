@@ -7,6 +7,7 @@ publishdir: "public"
 
 # Menu.
 sectionPagesMenu: "navigation"
+titleCaseStyle: "Chicago"
 
 # Allow HTML within markdown.
 markup:
