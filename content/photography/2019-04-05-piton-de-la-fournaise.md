@@ -11,9 +11,9 @@ Piton de la Fournaise.
 
 <h1 class="huge-tild">~</h1>
 
-<img src="/public/img/photography/piton/piton-1.jpg" data-action="zoom" />
-<img src="/public/img/photography/piton/piton-2.jpg" data-action="zoom" />
-<img src="/public/img/photography/piton/piton-3.jpg" data-action="zoom" />
+<img src="/img/photography/piton/piton-1.jpg" data-action="zoom" />
+<img src="/img/photography/piton/piton-2.jpg" data-action="zoom" />
+<img src="/img/photography/piton/piton-3.jpg" data-action="zoom" />
 
 <p class="page-intro">
     Analog print - fiber based paper - 18x18cm - 2 ed + 1 ap.

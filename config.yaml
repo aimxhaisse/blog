@@ -7,3 +7,9 @@ publishdir: "public"
 
 # Menu.
 sectionPagesMenu: "navigation"
+
+# Allow HTML within markdown.
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
