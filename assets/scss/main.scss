@@ -21,7 +21,7 @@
 }
 
 :root {
-    --font-size: 1.1vw;
+    --font-size: 1.4vw;
     --side-padding: calc(var(--space) * 1.2);
 }
 
@@ -107,6 +107,7 @@ h1 {
 }
 
 small {
+    opacity: 0.65;
     font-size: smaller;
 }
 
@@ -162,6 +163,12 @@ article {
 	    margin: 1rem 0 1rem 0;
 	    opacity: 0.5;
 	}
+
+	li {
+	    font-weight: 500;
+	    font-size: 110%;
+	}
+
     }
 }
 
