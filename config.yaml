@@ -10,6 +10,10 @@ sectionPagesMenu: "navigation"
 titleCaseStyle: "Chicago"
 menu:
   main:
+  - identifier: home
+    name: home
+    url: /
+    weight: -1
   - identifier: photography
     name: photo
     url: /photography/

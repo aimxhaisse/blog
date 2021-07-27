@@ -1,12 +1,9 @@
 <nav>
   <ul>
     {{ $currentPage := . }}
-    <li>
-      <a class="active" href="/" title="/">/</a>
-    </li>
     {{ range .Site.Menus.main }}
     <li>
-      <a class="{{ if (in $currentPage.Params.Categories .Identifier) }}active{{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+      <a class="{{ if (or (and (eq $currentPage.RelPermalink "/") (eq .Name "home")) (in $currentPage.Params.Categories .Identifier)) }}active{{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
     </li>
     {{ end }}
   </ul>
