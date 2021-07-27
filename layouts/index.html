@@ -9,7 +9,9 @@
       {{ range $.Site.RegularPages }}
       {{ if eq .FirstSection.Section .Section }}
       {{ if not .Params.disable_listing }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title | title }}</a></li>
+      <li>
+	<a href="{{.Permalink}}">{{ .Title | title }}</a> <small>&mdash; {{.Date.Format "2006-01-02"}}</small>
+      </li>
       {{ end }}
       {{ end }}
       {{ end }}
