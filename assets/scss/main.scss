@@ -21,35 +21,21 @@
 }
 
 :root {
-    --font-size: 1.4vw;
-    --side-padding: calc(var(--space) * 1.2);
+    --font-size: 1.1vw;
+    --side-padding: calc(var(--space) * 1.1);
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 800px) {
     :root {
-	--font-size: 1.6vw;
-	--side-padding: calc(var(--space) * 1.1);
-    }
-}
-
-@media (max-width: 1080px) {
-    :root {
-	--font-size: 2.25vw;
+	--font-size: 1.8vw;
 	--side-padding: calc(var(--space) * 0.5);
     }
 }
 
 @media (max-width: 640px) {
     :root {
-	--font-size: 2.80vw;
-	--side-padding: calc(var(--space) * 0.3);
-    }
-}
-
-@media (max-width: 400px) {
-    :root {
-	--font-size: 3.50vw;
-	--side-padding: calc(var(--space) * 0.15);
+	--font-size: 2.4vw;
+	--side-padding: calc(var(--space) * 0.5);
     }
 }
 
