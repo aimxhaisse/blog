@@ -8,7 +8,9 @@
     <ul>
       {{ range $.Site.RegularPages }}
       {{ if eq .FirstSection.Section .Section }}
+      {{ if not .Params.disable_listing }}
       <li><a href="{{ .RelPermalink }}">{{ .Title | title }}</a></li>
+      {{ end }}
       {{ end }}
       {{ end }}
     </ul>
