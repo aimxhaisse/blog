@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article lang="en">
   <header>
-    <h1>{{ .Title }}</h1>
+    <h1>{{ .Title | title }}</h1>
 
     {{ if .Description }}
     <small>{{ .Description | safeHTML }}</small>
