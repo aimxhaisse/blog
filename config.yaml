@@ -26,6 +26,10 @@ menu:
     name: projects
     url: /projects/
     weight: 4
+  - identifier: music
+    name: music
+    url: /music/
+    weight: 5
   - identifier: about
     name: about
     url: /about/
