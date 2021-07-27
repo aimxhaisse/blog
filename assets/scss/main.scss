@@ -181,3 +181,11 @@ footer {
 	display: inline;
     }
 }
+
+pre {
+    word-wrap: normal;
+    overflow-x: auto;
+    white-space: pre;
+    font-size: 70%;
+    padding: 10px;
+}

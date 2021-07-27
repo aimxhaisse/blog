@@ -5,9 +5,10 @@ categories:
 date: "2016-01-27T00:00:00Z"
 icon: music
 title: everything together
+disable_listing: true
 ---
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
 
 Now that we have all the parts of the track, we'll see how to put
 everything together. We already have a glimpse of what live loops are,
@@ -260,5 +261,4 @@ end
 
 <hr />
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
-
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*

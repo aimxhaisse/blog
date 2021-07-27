@@ -5,14 +5,15 @@ categories:
 date: "2016-01-26T00:00:00Z"
 icon: music
 title: solo électrique
+disable_listing: true
 ---
 
-*Cet article fait partie de la série [Aerodynamic]({% post_url music/2016-01-21-aerodynamic %}).*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
 
 On passe à présent au `solo` guitare, dont voici l'extrait une fois
 importé dans *Sonic Visualizer* :
 
-<img src="/public/img/aerodynamic/solo.png" data-action="zoom" />
+<img src="/img/aerodynamic/solo.png" data-action="zoom" />
 
 Là encore c'est un spectrogramme avec en abcisse le temps, et en
 ordonnée les fréquences sonores.  On voit des bandes horizontales
@@ -22,7 +23,7 @@ phase étant composée de 3 lignes horizontables ayant une durée de 16
 temps. En zoomant sur une de ces phases, on se rend compte qu'il
 s'agit d'une répétition de notes de la manière suivante:
 
-<img src="/public/img/aerodynamic/solo-notes.png" data-action="zoom" />
+<img src="/img/aerodynamic/solo-notes.png" data-action="zoom" />
 
 On peut récupérer la note derrière chaque bande de fréquence active avec
 *Sonic Visualizer* et recomposer ainsi le premier temps :
@@ -65,7 +66,7 @@ couramment l'*enveloppe sonore* d'une note (ou `ADSR`) ; ils
 définissent la manière dont évolue le volume de la note au cours du
 temps :
 
-<img src="/public/img/aerodynamic/solo-adsr.png" data-action="zoom" />
+<img src="/img/aerodynamic/solo-adsr.png" data-action="zoom" />
 
 Chaque lettre correspond à une de ces phases (**A**ttack, **D**ecay,
 que nous n'utilisons pas ici, **S**ustain, et **R**elease). Pour
@@ -154,8 +155,8 @@ live_loop :solo do
 end
 ```
 
-[La suite par ici...]({% post_url music/2016-01-27-aerodynamic-tout-ensemble %})
+<a href="/music/2016-01-27-aerodynamic-tout-ensemble">La suite par ici...</a>
 
 <hr />
 
-*Cet article fait partie de la série [Aerodynamic]({% post_url music/2016-01-21-aerodynamic %}).*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*

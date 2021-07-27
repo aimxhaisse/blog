@@ -5,15 +5,16 @@ categories:
 date: "2016-01-24T00:00:00Z"
 icon: music
 title: quelque chose qui cloche
+disable_listing: true
 ---
 
-*Cet article fait partie de la série [Aerodynamic]({% post_url music/2016-01-21-aerodynamic %}).*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
 
 On va maintenant s'intéresser en détail à la première partie du
 morceau : `bell`, soit les 4 sons de cloche au début du morceau ;
 voici ce que donne cette partie une fois importée dans *Sonic Visualizer* :
 
-<img data-action="zoom" src="/public/img/aerodynamic/cloche-sonic-visualizer-1.jpg" />
+<img data-action="zoom" src="/img/aerodynamic/cloche-sonic-visualizer-1.jpg" />
 
 Il s'agit d'un spectrogramme, en abcisse on a le temps, en ordonnée
 les fréquences sonores. On voit 4 zones distinctes, qui correspondent
@@ -81,7 +82,7 @@ horizontales produites par la cloche de Sonic Pi, mêmes si elles ont
 pour note principale `A3`, sont différentes. Voici ce que donne notre
 cloche une fois passée sous Sonic Visualizer:
 
-<img src="/public/img/aerodynamic/cloche-sonic-visualizer-2.jpg" data-action="zoom" />
+<img src="/img/aerodynamic/cloche-sonic-visualizer-2.jpg" data-action="zoom" />
 
 En haut, on voit la cloche originale, en bas, notre version :
 effectivement, on en est loin, il nous manque du timbre! On peut en
@@ -150,10 +151,10 @@ augmente avec chaque mise à jour, qu'il est possible de parcourir via
 l'aide en bas à gauche, dans l'onglet `Fx` ; chaque effet possède sa
 propre documentation, avec les différents paramètres possibles :
 
-<img src="/public/img/aerodynamic/help-fx.png" data-action="zoom" />
+<img src="/img/aerodynamic/help-fx.png" data-action="zoom" />
 
-[La suite par ici...]({% post_url music/2016-01-25-aerodynamic-maquillage %})
+<a href="/music/2016-01-25-aerodynamic-maquillage">La suite par ici...</a>
 
 <hr />
 
-*Cet article fait partie de la série [Aerodynamic]({% post_url music/2016-01-21-aerodynamic %}).*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*

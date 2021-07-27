@@ -5,14 +5,15 @@ categories:
 date: "2016-01-26T00:00:00Z"
 icon: music
 title: electric solo
+disable_listing: true
 ---
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
 
 We now move on to the `solo` part of the track, here's what it
 looks like once imported in *Sonic Visualizer*:
 
-<img src="/public/img/aerodynamic/solo.png" data-action="zoom" />
+<img src="/img/aerodynamic/solo.png" data-action="zoom" />
 
 Here again, it is a spectrogram with in abcissa the time, and in
 ordinate the audio frequencies. We see horizontal stripes composed of
@@ -22,7 +23,7 @@ horizontal lines of a duration of 16 beats. When zooming on one of
 these phases, we see it is actually a repetition of notes in the
 following fashion:
 
-<img src="/public/img/aerodynamic/solo-notes.png" data-action="zoom" />
+<img src="/img/aerodynamic/solo-notes.png" data-action="zoom" />
 
 We can get the note behind each spots with *Sonic Visualizer*, and
 recompose the first beat:
@@ -58,7 +59,7 @@ We configure the *zawa* instrument with the parameters `attack`,
 envelope of a sound (or `ADSR`) ; they define the way the intensity of
 a note evolves with time :
 
-<img src="/public/img/aerodynamic/solo-adsr.png" data-action="zoom" />
+<img src="/img/aerodynamic/solo-adsr.png" data-action="zoom" />
 
 Each letter corresponds to one of these sections (**A**ttack,
 **D**ecay which we aren't using here, **S**ustain, and
@@ -146,8 +147,8 @@ live_loop :solo do
 end
 ```
 
-[Next...]({% post_url music/2016-01-27-aerodynamic-everything-en %})
+<a href="/music/2016-01-27-aerodynamic-everything-en">Next...</a>
 
 <hr />
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*

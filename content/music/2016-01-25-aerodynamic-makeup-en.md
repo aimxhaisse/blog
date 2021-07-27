@@ -5,9 +5,10 @@ categories:
 date: "2016-01-25T00:00:00Z"
 icon: music
 title: a bit of makeup
+disable_listing: true
 ---
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
 
 *Daft Punk* is known for its usage of samples: several tracks from the
 Discovery album are built from samples of disco songs from the 80s.
@@ -18,7 +19,7 @@ more precisly from this chunk:
 
 <center>
    <audio controls="controls">
-      <source src="/public/misc/il-macquillage-lady.wav" type="audio/wav" />
+      <source src="/misc/il-macquillage-lady.wav" type="audio/wav" />
    </audio>
 </center>
 
@@ -29,7 +30,7 @@ something that looks like:
 
 <center>
    <audio controls="controls">
-       <source src="/public/misc/funk.wav" type="audio/wav" />
+       <source src="/misc/funk.wav" type="audio/wav" />
    </audio>
 </center>
 
@@ -42,8 +43,8 @@ We'll start by preparing and cutting *Sister Sledge*'s extract,
 then by picking chunks (samples) we are interested in so as to
 rebuild the funk from *Daft Punk*.
 
-Once the [original extract](/public/misc/il-macquillage-lady.wav) and
-[the one from the Daft Punk](/public/misc/funk.wav) downloaded, we can
+Once the [original extract](/misc/il-macquillage-lady.wav) and
+[the one from the Daft Punk](/misc/funk.wav) downloaded, we can
 load them in *Sonic Pi* with the `load_sample` instruction and play
 them in this way:
 
@@ -249,8 +250,8 @@ On the next iteration of the loop, we hear the modification. This
 approach is powerful as it allows to live edit a track and to
 make it evolves bit by bit!
 
-[Next...]({% post_url music/2016-01-26-aerodynamic-solo-en %})
+<a href="/music/2016-01-26-aerodynamic-solo-en">Next...</a>
 
 <hr />
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*

@@ -5,15 +5,16 @@ categories:
 date: "2016-01-24T00:00:00Z"
 icon: music
 title: something that rings a bell
+disable_listing: true
 ---
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
 
 We are now going to focus on the first part of the track: `bell`, that
 is, the 4 strokes of the bell at the beginning of the track ; here is
 what it looks like once imported in *Sonic Visualizer*:
 
-<img data-action="zoom" src="/public/img/aerodynamic/cloche-sonic-visualizer-1.jpg" />
+<img data-action="zoom" src="/img/aerodynamic/cloche-sonic-visualizer-1.jpg" />
 
 This is a spectrogram, in abscissa we have time and in ordinate we
 have audio frequencies. We can see 4 distinct areas, one for each
@@ -80,7 +81,7 @@ one we are looking for. In other terms, the horizontal stripes
 produced by *Sonic Pi*'s bell, despite being based on the note `A3`,
 are different. Here's what it looks like in *Sonic Visualizer*:
 
-<img src="/public/img/aerodynamic/cloche-sonic-visualizer-2.jpg" data-action="zoom" />
+<img src="/img/aerodynamic/cloche-sonic-visualizer-2.jpg" data-action="zoom" />
 
 At the top, we have the bell from *Aerodynamic* ; at the bottom our
 version: indeed, we are quite far from it, we are missing a lot of
@@ -148,10 +149,10 @@ the help at the bottom of *Sonic Pi*, inside the `Fx` pane ; each
 effect has its own documentation, with the different possible
 parameters:
 
-<img src="/public/img/aerodynamic/help-fx.png" data-action="zoom" />
+<img src="/img/aerodynamic/help-fx.png" data-action="zoom" />
 
-[Next...]({% post_url music/2016-01-25-aerodynamic-makeup-en %})
+<a href="/music/2016-01-25-aerodynamic-makeup-en">Next...</a>
 
 <hr />
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*

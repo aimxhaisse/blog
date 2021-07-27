@@ -5,9 +5,10 @@ categories:
 date: "2016-01-23T00:00:00Z"
 icon: music
 title: structure
+disable_listing: true
 ---
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
 
 Before digging into the track,
 [listen to it](https://www.youtube.com/watch?v=L93-7vRfxNs) 3/4 times,
@@ -18,7 +19,7 @@ Ready? Let's continue!
 
 Here's what the track looks like once imported in *Sonic Visualizer*:
 
-<img src="/public/img/aerodynamic/structure.png" data-action="zoom" />
+<img src="/img/aerodynamic/structure.png" data-action="zoom" />
 
 It is a common way to visualize a sound, in abscissa we have the time and in
 ordinate the volume. We see that the track's length is about 3 minutes and
@@ -45,7 +46,7 @@ simplest one being to use a software which directly provides its
 value, for instance, by importing the track in *Audacity* with the
 *Tempo and Beat Tracker* plugin :
 
-<img src="/public/img/aerodynamic/bpm.png" data-action="zoom" />
+<img src="/img/aerodynamic/bpm.png" data-action="zoom" />
 
 We can also compute it from the `bells` part of the track, which is
 made of 4 strokes of a bell for a duration of **15''6**: if we decide
@@ -79,14 +80,14 @@ This looks like the original track from a rhythmic point of view (but not
 on the accoustic side since we arbitrarily picked `C3`), to be sure of
 this, we can compare this version with the original one in *Audacity*:
 
-<img src="/public/img/aerodynamic/bpm-match.png" data-action="zoom" />
+<img src="/img/aerodynamic/bpm-match.png" data-action="zoom" />
 
 On the upper side we have the original (since it's a stereo track,
 there is one line for the left ear, one line for the right ear), on
 the bottom side we have our version: it matches, we can continue!
 
-[Next...]({% post_url music/2016-01-24-aerodynamic-something-that-rings-a-bell-en %})
+<a href="/music/2016-01-24-aerodynamic-something-that-rings-a-bell-en">Next...</a>
 
 <hr />
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*

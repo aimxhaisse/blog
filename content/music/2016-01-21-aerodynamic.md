@@ -4,9 +4,11 @@ categories:
 date: "2016-01-21T00:00:00Z"
 icon: music
 title: aerodynamic
+append_list_from: aero
+disable_listing: true
 ---
 
-*Également disponible en [anglais]({% post_url music/2016-01-21-aerodynamic-en %}) / also available in [english]({% post_url music/2016-01-21-aerodynamic-en %}).*
+*Également disponible en <a href="/music/2016-01-21-aerodynamic-en">anglais</a> / also available in <a href="/music/2016-01-21-aerodynamic-en">english</a>.*
 
 Cette série d'articles a pour but d'explorer les relations entre
 musique et code en se basant sur le morceau
@@ -22,13 +24,10 @@ va voir comment exprimer cela en code et comment jouer avec.
 
 À la fin de ces pages, vous devriez arriver à quelque chose comme ça:
 
-<iframe id="ytplayer" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/cydH_JAgSfg?autoplay=0&origin=http://mxs.sbrk.org" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="100%" height="500px" src="https://www.youtube.com/embed/cydH_JAgSfg?autoplay=0&origin=http://mxs.sbrk.org" frameborder="0"></iframe>
 
 J'espère que ça vous motive à embarquer pour l'aventure, car le grand
 départ est dans quelques minutes! Prévoyez quelques heures devant
 vous, un casque, et du café!
 
 Vous êtes prêt? C'est parti!
-
-{% assign items = site.categories.aero %}
-{% include page-reversed-items.html %}

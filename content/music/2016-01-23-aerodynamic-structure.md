@@ -5,9 +5,10 @@ categories:
 date: "2016-01-23T00:00:00Z"
 icon: music
 title: structure
+disable_listing: true
 ---
 
-*Cet article fait partie de la série [Aerodynamic]({% post_url music/2016-01-21-aerodynamic %}).*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
 
 Avant toute chose, essayez d'écouter 3/4 fois le [morceau original](https://www.youtube.com/watch?v=L93-7vRfxNs), d'en déduire
 les différentes parties et d'imaginer comment elles sont construites.
@@ -17,7 +18,7 @@ C'est bon? Prêt à décoller? Allons-y!
 Voici ce à quoi ressemble le morceau une fois importé dans *Sonic
 Visualizer* :
 
-<img src="/public/img/aerodynamic/structure.png" data-action="zoom" />
+<img src="/img/aerodynamic/structure.png" data-action="zoom" />
 
 Il s'agit d'une manière classique de visualiser un son, en abcisse on
 a le temps et en ordonnée le volume (plus la bande est épaisse, plus
@@ -45,7 +46,7 @@ manières, la plus simple étant probablement d'utiliser un logiciel qui
 donne directement sa valeur, par exemple, en important le morceau
 dans *Audacity* et en utilisant le plugin *Tempo and Beat Tracker* :
 
-<img src="/public/img/aerodynamic/bpm.png" data-action="zoom" />
+<img src="/img/aerodynamic/bpm.png" data-action="zoom" />
 
 On peut aussi le calculer à partir de la partie `bells`, qui comprend
 4 sons de cloche sur une durée de **15''6**, si on décide que chaque
@@ -77,14 +78,14 @@ C'est assez proche de l'original d'un point de vue rythmique (mais pas
 au niveau de la sonorité puisque l'on a choisi `C3` arbitrairement),
 pour s'en assurer, on peut comparer dans *Audacity*:
 
-<img src="/public/img/aerodynamic/bpm-match.png" data-action="zoom" />
+<img src="/img/aerodynamic/bpm-match.png" data-action="zoom" />
 
 En haut on a l'original (on est en stéréo, il y a une bande pour le
 côté gauche, une pour le côté droit), en bas notre version : ça colle,
 on peut continuer!
 
-[La suite par ici...]({% post_url music/2016-01-24-aerodynamic-quelque-chose-qui-cloche %})
+<a href="/music/2016-01-24-aerodynamic-quelque-chose-qui-cloche">La suite par ici...</a>
 
 <hr />
 
-*Cet article fait partie de la série [Aerodynamic]({% post_url music/2016-01-21-aerodynamic %}).*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*

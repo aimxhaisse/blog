@@ -5,9 +5,10 @@ categories:
 date: "2016-01-22T00:00:00Z"
 icon: music
 title: preparations
+disable_listing: true
 ---
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
 
 We are going to spend most of our time in
 [Sonic Pi](http://sonic-pi.net), which will be our best companion
@@ -37,7 +38,7 @@ colors attack your retina, by going into the preferences (the `Prefs`
 button on the top right corner), and by ticking `Dark Mode`, your
 world will be illuminated.
 
-<img src="/public/img/aerodynamic/preparatifs-sonic-pi.jpg" data-action="zoom" />
+<img src="/img/aerodynamic/preparatifs-sonic-pi.jpg" data-action="zoom" />
 
 *Welcome to the Matrix Neo.*
 
@@ -56,8 +57,8 @@ We aren't going to spend a lot of time detailing their usage in these
 pages, I'll directly provide screenshots containing meaningful
 information.
 
-[Next...]({% post_url music/2016-01-23-aerodynamic-structure-en %})
+<a href="/music/2016-01-23-aerodynamic-structure-en">Next...</a>
 
 <hr />
 
-*This article is part of the [Aerodynamic]({% post_url music/2016-01-21-aerodynamic-en %})* guide.
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*

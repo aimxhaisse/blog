@@ -5,9 +5,10 @@ categories:
 date: "2016-01-25T00:00:00Z"
 icon: music
 title: un peu de maquillage
+disable_listing: true
 ---
 
-*Cet article fait partie de la série [Aerodynamic]({% post_url music/2016-01-21-aerodynamic %}).*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
 
 *Daft Punk* est reconnu en partie pour son utilisation de samples :
 une grande partie de l'album Discovery est fait à partir d'extraits de
@@ -19,7 +20,7 @@ particulier cet extrait :
 
 <center>
    <audio controls="controls">
-      <source src="/public/misc/il-macquillage-lady.wav" type="audio/wav" />
+      <source src="/misc/il-macquillage-lady.wav" type="audio/wav" />
    </audio>
 </center>
 
@@ -30,7 +31,7 @@ pour arriver à quelque chose proche de :
 
 <center>
    <audio controls="controls">
-       <source src="/public/misc/funk.wav" type="audio/wav" />
+       <source src="/misc/funk.wav" type="audio/wav" />
    </audio>
 </center>
 
@@ -42,8 +43,8 @@ s'imaginer comment tout s'enchaîne, même après plusieurs écoutes.
 On va commencer par préparer et découper l'extrait des *Sister
 Sledge*, puis on piochera les petits morceaux (samples) qui nous
 intéressent pour ensuite reconstruire le funk de *Daft Punk*. Une fois
-l'[extrait original](/public/misc/il-macquillage-lady.wav) et
-[celui des Daft-Punk](/public/misc/funk.wav) téléchargés, on peut les
+l'[extrait original](/misc/il-macquillage-lady.wav) et
+[celui des Daft-Punk](/misc/funk.wav) téléchargés, on peut les
 charger dans *Sonic Pi* à l'aide de l'instruction `load_sample` et les
 jouer ainsi :
 
@@ -253,8 +254,8 @@ ainsi :
 modifications. Cette approche permet d'éditer en live le morceau et de
 le faire évoluer petit à petit !
 
-[La suite par ici...]({% post_url music/2016-01-26-aerodynamic-solo %})
+<a href="/music/2016-01-26-aerodynamic-solo">La suite par ici...</a>
 
 <hr />
 
-*Cet article fait partie de la série [Aerodynamic]({% post_url music/2016-01-21-aerodynamic %}).*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
