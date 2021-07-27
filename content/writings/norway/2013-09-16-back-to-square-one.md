@@ -71,4 +71,4 @@ Les derniers mots sur mon carnet sont:
 > Les Norvégiens ont des casquettes. Et des trampolines bleus. Et de
 > grandes maisons.
 
-[La suite par ici...]({% post_url writings/norway/2014-03-07-norway-bonus %})
+<a href="/writings/norway/2014-03-07-norway-bonus">La suite par ici...</a>

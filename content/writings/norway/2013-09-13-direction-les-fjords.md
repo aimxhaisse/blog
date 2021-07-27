@@ -76,4 +76,4 @@ petit matin (niark niark niark niark).
 <img src="/img/norway/jour8-miam.jpg" data-action="zoom" />
 
 
-[La suite par ici...]({% post_url writings/norway/2013-09-14-pizza %})
+<a href="/writings/norway/2013-09-14-pizza">La suite par ici...</a>
