@@ -8,6 +8,28 @@ publishdir: "public"
 # Menu.
 sectionPagesMenu: "navigation"
 titleCaseStyle: "Chicago"
+menu:
+  main:
+  - identifier: photography
+    name: photo
+    url: /photography/
+    weight: 1
+  - identifier: writings
+    name: writings
+    url: /writings/
+    weight: 2
+  - identifier: code
+    name: code
+    url: /code/
+    weight: 3
+  - identifier: projects
+    name: projects
+    url: /projects/
+    weight: 4
+  - identifier: about
+    name: about
+    url: /about/
+    weight: 6
 
 # Allow HTML within markdown.
 markup:
