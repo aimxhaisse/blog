@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2009-10-21T00:00:00Z"
 title: Inheritance level in C++
 ---

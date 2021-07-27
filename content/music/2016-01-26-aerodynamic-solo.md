@@ -1,6 +1,7 @@
 ---
 categories:
 - aero
+- music
 date: "2016-01-26T00:00:00Z"
 icon: music
 title: solo électrique

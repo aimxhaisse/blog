@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2010-04-28T00:00:00Z"
 title: Variadic Arguments in C Macros
 ---

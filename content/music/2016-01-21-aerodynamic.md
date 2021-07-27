@@ -1,4 +1,6 @@
 ---
+categories:
+- music
 date: "2016-01-21T00:00:00Z"
 icon: music
 title: aerodynamic

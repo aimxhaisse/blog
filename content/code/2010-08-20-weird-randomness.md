@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2010-08-20T00:00:00Z"
 title: Weird Randomness
 ---

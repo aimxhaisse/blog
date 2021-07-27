@@ -1,6 +1,6 @@
 ---
 categories:
-- project
+- projects
 date: "2013-12-08T00:00:00Z"
 icon: projects
 link: https://github.com/aimxhaisse/shortener

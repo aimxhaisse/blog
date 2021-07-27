@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2010-07-19T00:00:00Z"
 title: PHP and boolean settings
 ---

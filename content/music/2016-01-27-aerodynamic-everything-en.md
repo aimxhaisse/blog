@@ -1,6 +1,7 @@
 ---
 categories:
 - aero_en
+- music
 date: "2016-01-27T00:00:00Z"
 icon: music
 title: everything together

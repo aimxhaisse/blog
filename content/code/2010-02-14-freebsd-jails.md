@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2010-02-14T00:00:00Z"
 title: FreeBSD and Jails
 ---

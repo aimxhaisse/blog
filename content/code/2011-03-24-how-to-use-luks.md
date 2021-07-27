@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2011-03-24T00:00:00Z"
 title: Notes about LUKS
 ---

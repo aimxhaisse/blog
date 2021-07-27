@@ -1,6 +1,6 @@
 ---
 categories:
-- photo
+- photography
 date: "2014-12-29T00:00:00Z"
 desc: Italy, June 2014
 icon: photography

@@ -1,6 +1,6 @@
 ---
 categories:
-- photo
+- photography
 date: "2016-05-09T00:00:00Z"
 desc: Paris, Février 2016
 icon: photography

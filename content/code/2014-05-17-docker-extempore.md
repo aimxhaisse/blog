@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2014-05-17T00:00:00Z"
 plugin: lightense
 title: streaming extempore

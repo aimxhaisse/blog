@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2012-08-23T00:00:00Z"
 title: backup files with hdup
 ---

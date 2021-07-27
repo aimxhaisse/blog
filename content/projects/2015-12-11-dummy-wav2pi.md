@@ -1,6 +1,6 @@
 ---
 categories:
-- project
+- projects
 date: "2015-12-11T00:00:00Z"
 icon: projects
 link: https://github.com/aimxhaisse/dummy-wav2pi

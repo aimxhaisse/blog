@@ -1,6 +1,6 @@
 ---
 categories:
-- photo
+- photography
 date: "2018-06-04T00:00:00Z"
 icon: photography
 plugin: lightense

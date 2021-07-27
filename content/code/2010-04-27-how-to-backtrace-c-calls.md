@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2010-04-27T00:00:00Z"
 title: Backtracing C function calls
 ---

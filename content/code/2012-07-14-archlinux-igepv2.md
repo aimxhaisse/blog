@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2012-07-14T00:00:00Z"
 title: Archlinux Arm on IGEPv2
 ---

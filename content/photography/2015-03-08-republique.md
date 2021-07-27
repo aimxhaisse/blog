@@ -1,6 +1,6 @@
 ---
 categories:
-- photo
+- photography
 date: "2015-03-08T00:00:00Z"
 desc: Paris, Janvier 2015
 icon: photography

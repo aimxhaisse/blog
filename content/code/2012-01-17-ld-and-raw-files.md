@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2012-01-17T00:00:00Z"
 title: include raw files with ld
 ---

@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2013-02-14T00:00:00Z"
 plugin: lightense
 title: pretty dmesg

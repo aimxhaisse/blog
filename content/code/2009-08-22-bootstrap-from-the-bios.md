@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2009-08-22T00:00:00Z"
 title: Boostrapping from the BIOS
 ---

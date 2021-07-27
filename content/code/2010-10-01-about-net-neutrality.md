@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2010-10-01T00:00:00Z"
 title: About Net Neutrality
 ---

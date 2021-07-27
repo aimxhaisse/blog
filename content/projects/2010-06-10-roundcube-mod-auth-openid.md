@@ -1,6 +1,6 @@
 ---
 categories:
-- project
+- projects
 date: "2010-06-10T00:00:00Z"
 icon: projects
 link: https://github.com/aimxhaisse/roundcube-mod-auth-openid

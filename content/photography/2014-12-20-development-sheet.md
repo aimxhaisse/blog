@@ -1,6 +1,6 @@
 ---
 categories:
-- photo
+- photography
 date: "2014-12-20T00:00:00Z"
 desc: development sheet for B&W analog photography
 icon: photography

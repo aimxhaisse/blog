@@ -1,6 +1,6 @@
 ---
 categories:
-- project
+- projects
 date: "2010-07-12T00:00:00Z"
 icon: projects
 link: https://github.com/aimxhaisse/mod-proxy-add-user

@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2009-11-30T00:00:00Z"
 title: Void Casts in C++
 ---

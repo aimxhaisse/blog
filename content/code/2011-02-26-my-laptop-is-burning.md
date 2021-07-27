@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2011-02-26T00:00:00Z"
 title: My Laptop is Burning
 ---

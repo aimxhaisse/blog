@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2009-11-12T00:00:00Z"
 title: About Boost Test
 ---

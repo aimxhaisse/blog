@@ -1,6 +1,6 @@
 ---
 categories:
-- project
+- projects
 date: "2016-01-13T00:00:00Z"
 icon: projects
 link: https://github.com/aimxhaisse/docker-mailz

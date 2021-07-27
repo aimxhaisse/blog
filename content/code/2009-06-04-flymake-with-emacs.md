@@ -1,7 +1,6 @@
 ---
 categories:
 - code
-- news
 date: "2009-06-04T00:00:00Z"
 title: flymake and emacs
 ---

@@ -6,7 +6,7 @@
     </li>
     {{ range .Site.Menus.main }}
     <li>
-      <a class="{{ if (eq $currentPage.RelPermalink .URL) }}active{{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+      <a class="{{ if (in $currentPage.Params.Categories .Identifier) }}active{{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
     </li>
     {{ end }}
   </ul>
