@@ -1,10 +1,12 @@
 ---
 categories:
+- writings
 - norway
 date: "2014-03-07T00:00:00Z"
 icon: writings
 plugin: lightense
 title: bonus
+disable_listing: true
 ---
 
 Quelques bonus, en vrac.

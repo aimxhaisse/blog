@@ -1,10 +1,12 @@
 ---
 categories:
+- writings
 - norway
 date: "2013-09-09T00:00:00Z"
 icon: writings
 plugin: lightense
 title: rivendell
+disable_listing: true
 ---
 
 Mes notes sur cette cinquième journée commencent par:

@@ -18,6 +18,18 @@
   </header>
   <div id="content">
     {{ .Content }}
+
+    {{ if .Params.append_list_from }}
+    {{ $append_list_from := .Params.append_list_from }}
+    <ul>
+      {{ range $.Site.Pages.Reverse }}
+      {{ if in .Params.categories $append_list_from }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title | title }}</a></li>
+      {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
+
   </div>
 </article>
 {{ end }}

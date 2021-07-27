@@ -1,10 +1,12 @@
 ---
 categories:
+- writings
 - norway
 date: "2013-09-08T00:00:00Z"
 icon: writings
 plugin: lightense
 title: dinosaurus
+disable_listing: true
 ---
 
 Je me réveille à 6h30 au milieu des nuages: il fait jour mais je ne

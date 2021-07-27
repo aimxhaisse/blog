@@ -1,10 +1,12 @@
 ---
 categories:
+- writings
 - norway
 date: "2013-09-13T00:00:00Z"
 icon: writings
 plugin: lightense
 title: vers les fjords
+disable_listing: true
 ---
 
 On prend un méga petit déjeuner avant de remballer et de se diriger

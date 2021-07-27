@@ -1,10 +1,12 @@
 ---
 categories:
+- writings
 - norway
 date: "2013-09-05T00:00:00Z"
 icon: writings
 plugin: lightense
 title: préambule
+disable_listing: true
 ---
 
 Jeudi 5 Septembre 2013, à peu près 2 heures du matin et mon sac est

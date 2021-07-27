@@ -1,10 +1,12 @@
 ---
 categories:
+- writings
 - norway
 date: "2013-09-15T00:00:00Z"
 icon: writings
 plugin: lightense
 title: civilisation
+disable_listing: true
 ---
 
 Le vent a soufflé toute la nuit, et ça continue au réveil: mes

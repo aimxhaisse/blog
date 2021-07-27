@@ -1,10 +1,12 @@
 ---
 categories:
+- writings
 - norway
 date: "2013-09-16T00:00:00Z"
 icon: writings
 plugin: lightense
 title: retour à la case départ
+disable_listing: true
 ---
 
 Avant dernière journée sur laquelle j'ai peu à raconter car on a pas

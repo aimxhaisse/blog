@@ -10,9 +10,11 @@
   <div id="content">
     <ul>
     {{ range .Pages }}
+    {{ if not .Params.disable_listing }}
     <li>
       <a href="{{.Permalink}}">{{ .Title | title }}</a> <small>&mdash; {{.Date.Format "2006-01-02"}}</small>
     </li>
+    {{ end }}
     {{ end }}
     </ul>
   </div>

@@ -1,10 +1,12 @@
 ---
 categories:
+- writings
 - norway
 date: "2013-09-10T00:00:00Z"
 icon: writings
 plugin: lightense
 title: charles ingalls
+disable_listing: true
 ---
 
 Il fait beau et on décampe assez tard après avoir lavé quelques
