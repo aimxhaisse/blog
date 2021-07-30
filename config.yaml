@@ -13,7 +13,7 @@ menu:
   main:
   - identifier: home
     name: home
-    url: /
+    url: /home.html
     weight: -1
   - identifier: photography
     name: photo
