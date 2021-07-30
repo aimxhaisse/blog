@@ -3,6 +3,10 @@
   <header>
     <h1>{{ .Title | title }}</h1>
 
+    {{ if .Params.image }}
+    <img src="{{ .Params.image }}" />
+    {{ end }}
+
     {{ if .Description }}
     <small>{{ .Description | safeHTML }}</small>
     {{ end }}
