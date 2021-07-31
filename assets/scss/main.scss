@@ -175,3 +175,33 @@ pre {
     font-size: 70%;
     padding: 10px;
 }
+
+@font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.eot?71548216');
+    src: url('../font/fontello.eot?71548216#iefix') format('embedded-opentype'),
+         url('../font/fontello.woff?71548216') format('woff'),
+         url('../font/fontello.ttf?71548216') format('truetype'),
+         url('../font/fontello.svg?71548216#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon:hover {
+    text-decoration: none;
+}
+
+.icon {
+    font-family: "fontello";
+    font-style: normal;
+    font-weight: normal;
+    speak: never;
+    display: inline-block;
+    text-decoration: inherit;
+    font-size: 250%;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
