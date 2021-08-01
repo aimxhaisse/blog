@@ -1,2 +1,0 @@
-all:
-	hugo serve
