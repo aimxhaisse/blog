@@ -5,4 +5,4 @@ services:
       - VIRTUALHOST=mxs.sbrk.org
     build: ./
     ports:
-    - "10003:1313"
+    - "10003:80"

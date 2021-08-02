@@ -1,9 +1,14 @@
-FROM ubuntu:21.04
+# Build using Ubuntu.
+FROM ubuntu:21.04 as build
 
 RUN apt update -q -y && \
     apt install -q -y hugo
 
-WORKDIR /usr/share/blog
-ADD . /usr/share/blog
+COPY . /www
+WORKDIR /www
+RUN hugo
 
-ENTRYPOINT ["hugo", "server", "--bind", "0.0.0.0", "--minify", "--disableLiveReload", "--baseURL", "mxs.sbrk.org"]
+# Serve using Nginx.
+FROM nginx:alpine
+COPY --from=build /www/public /usr/share/nginx/html
+WORKDIR /usr/share/nginx/html
