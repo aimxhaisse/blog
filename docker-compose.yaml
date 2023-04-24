@@ -3,7 +3,7 @@ services:
   mxs_frontend:
     environment:
       - VIRTUALHOST=mxs.sbrk.org
-    build: ./
+    image: registry.maethstro.com/mxs-blog:prod
     ports:
     - "10003:80"
     restart: unless-stopped

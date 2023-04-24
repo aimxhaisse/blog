@@ -1,5 +1,5 @@
 # Build using Ubuntu.
-FROM ubuntu:21.04 as build
+FROM ubuntu:jammy as build
 
 RUN apt update -q -y && \
     apt install -q -y hugo
