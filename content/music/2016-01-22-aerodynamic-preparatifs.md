@@ -60,7 +60,7 @@ On ne va pas s'attarder sur leur utilisation dans ce guide, je vous
 ferai profiter directement de quelques captures d'écrans contenant des
 informations utiles.
 
-<a href="/music/2016-01-23-aerodynamic-structure">La suite par ici...</a>
+<a href="/music/2016-01-23-aerodynamic-structure.html">La suite par ici...</a>
 
 <hr />
 
