@@ -8,7 +8,7 @@ title: everything together
 disable_listing: true
 ---
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*
 
 Now that we have all the parts of the track, we'll see how to put
 everything together. We already have a glimpse of what live loops are,
@@ -261,4 +261,4 @@ end
 
 <hr />
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*

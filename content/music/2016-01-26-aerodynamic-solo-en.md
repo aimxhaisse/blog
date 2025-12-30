@@ -8,7 +8,7 @@ title: electric solo
 disable_listing: true
 ---
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*
 
 We now move on to the `solo` part of the track, here's what it
 looks like once imported in *Sonic Visualizer*:
@@ -147,8 +147,8 @@ live_loop :solo do
 end
 ```
 
-<a href="/music/2016-01-27-aerodynamic-everything-en">Next...</a>
+<a href="/music/2016-01-27-aerodynamic-everything-en.html">Next...</a>
 
 <hr />
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*

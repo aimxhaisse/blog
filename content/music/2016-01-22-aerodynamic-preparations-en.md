@@ -8,7 +8,7 @@ title: preparations
 disable_listing: true
 ---
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*
 
 We are going to spend most of our time in
 [Sonic Pi](http://sonic-pi.net), which will be our best companion
@@ -57,8 +57,8 @@ We aren't going to spend a lot of time detailing their usage in these
 pages, I'll directly provide screenshots containing meaningful
 information.
 
-<a href="/music/2016-01-23-aerodynamic-structure-en">Next...</a>
+<a href="/music/2016-01-23-aerodynamic-structure-en.html">Next...</a>
 
 <hr />
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*

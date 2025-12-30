@@ -8,7 +8,7 @@ title: solo électrique
 disable_listing: true
 ---
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*
 
 On passe à présent au `solo` guitare, dont voici l'extrait une fois
 importé dans *Sonic Visualizer* :
@@ -155,8 +155,8 @@ live_loop :solo do
 end
 ```
 
-<a href="/music/2016-01-27-aerodynamic-tout-ensemble">La suite par ici...</a>
+<a href="/music/2016-01-27-aerodynamic-tout-ensemble.html">La suite par ici...</a>
 
 <hr />
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*

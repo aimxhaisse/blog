@@ -7,7 +7,7 @@ title: aerodynamic
 append_list_from: aero_en
 ---
 
-*Also available in <a href="/music/2016-01-21-aerodynamic">french</a> / également disponible en <a href="/music/2016-01-21-aerodynamic">français</a>.*
+*Also available in <a href="/music/2016-01-21-aerodynamic.html">french</a> / également disponible en <a href="/music/2016-01-21-aerodynamic.html">français</a>.*
 
 The goal of these articles is to explore the relationships between
 music and code, by analyzing and recreating the track

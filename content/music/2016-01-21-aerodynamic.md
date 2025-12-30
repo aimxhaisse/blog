@@ -8,7 +8,7 @@ append_list_from: aero
 disable_listing: true
 ---
 
-*Également disponible en <a href="/music/2016-01-21-aerodynamic-en">anglais</a> / also available in <a href="/music/2016-01-21-aerodynamic-en">english</a>.*
+*Également disponible en <a href="/music/2016-01-21-aerodynamic-en.html">anglais</a> / also available in <a href="/music/2016-01-21-aerodynamic-en.html">english</a>.*
 
 Cette série d'articles a pour but d'explorer les relations entre
 musique et code en se basant sur le morceau

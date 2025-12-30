@@ -8,7 +8,7 @@ title: quelque chose qui cloche
 disable_listing: true
 ---
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*
 
 On va maintenant s'intéresser en détail à la première partie du
 morceau : `bell`, soit les 4 sons de cloche au début du morceau ;
@@ -153,8 +153,8 @@ propre documentation, avec les différents paramètres possibles :
 
 <img src="/img/aerodynamic/help-fx.png" data-action="zoom" />
 
-<a href="/music/2016-01-25-aerodynamic-maquillage">La suite par ici...</a>
+<a href="/music/2016-01-25-aerodynamic-maquillage.html">La suite par ici...</a>
 
 <hr />
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*

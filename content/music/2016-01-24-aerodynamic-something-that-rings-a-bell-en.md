@@ -8,7 +8,7 @@ title: something that rings a bell
 disable_listing: true
 ---
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*
 
 We are now going to focus on the first part of the track: `bell`, that
 is, the 4 strokes of the bell at the beginning of the track ; here is
@@ -151,8 +151,8 @@ parameters:
 
 <img src="/img/aerodynamic/help-fx.png" data-action="zoom" />
 
-<a href="/music/2016-01-25-aerodynamic-makeup-en">Next...</a>
+<a href="/music/2016-01-25-aerodynamic-makeup-en.html">Next...</a>
 
 <hr />
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*

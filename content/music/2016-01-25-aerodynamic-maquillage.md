@@ -8,7 +8,7 @@ title: un peu de maquillage
 disable_listing: true
 ---
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*
 
 *Daft Punk* est reconnu en partie pour son utilisation de samples :
 une grande partie de l'album Discovery est fait à partir d'extraits de
@@ -254,8 +254,8 @@ ainsi :
 modifications. Cette approche permet d'éditer en live le morceau et de
 le faire évoluer petit à petit !
 
-<a href="/music/2016-01-26-aerodynamic-solo">La suite par ici...</a>
+<a href="/music/2016-01-26-aerodynamic-solo.html">La suite par ici...</a>
 
 <hr />
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*

@@ -8,7 +8,7 @@ title: préparatifs
 disable_listing: true
 ---
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*
 
 On va passer la plupart de notre temps dans
 [Sonic Pi](http://sonic-pi.net), qui va être notre meilleur compagnon au
@@ -64,4 +64,4 @@ informations utiles.
 
 <hr />
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*

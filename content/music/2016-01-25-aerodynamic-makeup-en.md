@@ -8,7 +8,7 @@ title: a bit of makeup
 disable_listing: true
 ---
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*
 
 *Daft Punk* is known for its usage of samples: several tracks from the
 Discovery album are built from samples of disco songs from the 80s.
@@ -250,8 +250,8 @@ On the next iteration of the loop, we hear the modification. This
 approach is powerful as it allows to live edit a track and to
 make it evolves bit by bit!
 
-<a href="/music/2016-01-26-aerodynamic-solo-en">Next...</a>
+<a href="/music/2016-01-26-aerodynamic-solo-en.html">Next...</a>
 
 <hr />
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*

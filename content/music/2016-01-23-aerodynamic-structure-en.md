@@ -8,7 +8,7 @@ title: structure
 disable_listing: true
 ---
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*
 
 Before digging into the track,
 [listen to it](https://www.youtube.com/watch?v=L93-7vRfxNs) 3/4 times,
@@ -86,8 +86,8 @@ On the upper side we have the original (since it's a stereo track,
 there is one line for the left ear, one line for the right ear), on
 the bottom side we have our version: it matches, we can continue!
 
-<a href="/music/2016-01-24-aerodynamic-something-that-rings-a-bell-en">Next...</a>
+<a href="/music/2016-01-24-aerodynamic-something-that-rings-a-bell-en.html">Next...</a>
 
 <hr />
 
-*This article is part of the <a href="/music/2016-01-21-aerodynamic-en">Aerodynamic</a> guide.*
+*This article is part of the <a href="/music/2016-01-21-aerodynamic-en.html">Aerodynamic</a> guide.*

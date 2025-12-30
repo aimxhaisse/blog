@@ -8,7 +8,7 @@ title: structure
 disable_listing: true
 ---
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*
 
 Avant toute chose, essayez d'écouter 3/4 fois le [morceau original](https://www.youtube.com/watch?v=L93-7vRfxNs), d'en déduire
 les différentes parties et d'imaginer comment elles sont construites.
@@ -84,8 +84,8 @@ En haut on a l'original (on est en stéréo, il y a une bande pour le
 côté gauche, une pour le côté droit), en bas notre version : ça colle,
 on peut continuer!
 
-<a href="/music/2016-01-24-aerodynamic-quelque-chose-qui-cloche">La suite par ici...</a>
+<a href="/music/2016-01-24-aerodynamic-quelque-chose-qui-cloche.html">La suite par ici...</a>
 
 <hr />
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*

@@ -8,7 +8,7 @@ title: tout ensemble
 disable_listing: true
 ---
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*
 
 Maintenant que nous avons toutes les parties du morceau, on va voir
 comment mettre tout ça ensemble. On a déjà vu comment fonctionnait
@@ -265,4 +265,4 @@ end
 
 <hr />
 
-*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic">Aerodynamic</a>.*
+*Cet article fait partie de la série <a href="/music/2016-01-21-aerodynamic.html">Aerodynamic</a>.*
