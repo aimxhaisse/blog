@@ -11,10 +11,10 @@ build:
     hugo
 
 # Build and check all links
-test:
+test: clean
     docker run --rm -v .:/src hugomods/hugo:latest hugo
     docker run --rm -v ./public:/public -v ./.htmltest.yml:/.htmltest.yml wjdp/htmltest --conf /.htmltest.yml --skip-external /public
 
 # Clean generated output
 clean:
-    rm -rf public
+    docker run --rm -v .:/src hugomods/hugo:latest rm -rf /src/public

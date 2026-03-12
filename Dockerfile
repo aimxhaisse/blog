@@ -1,14 +1,11 @@
-# Build using Ubuntu.
-FROM ubuntu:jammy as build
+# Build using Hugo image.
+FROM hugomods/hugo:0.157.0 as build
 
-RUN apt update -q -y && \
-    apt install -q -y hugo
-
-COPY . /www
-WORKDIR /www
+COPY . /src
+WORKDIR /src
 RUN hugo
 
 # Serve using Nginx.
 FROM nginx:alpine
-COPY --from=build /www/public /usr/share/nginx/html
+COPY --from=build /src/public /usr/share/nginx/html
 WORKDIR /usr/share/nginx/html

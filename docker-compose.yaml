@@ -1,6 +1,6 @@
 services:
   dev:
-    image: hugomods/hugo:latest
+    image: hugomods/hugo:0.157.0
     command: hugo server --bind 0.0.0.0 --port 1313
     volumes:
       - .:/src
