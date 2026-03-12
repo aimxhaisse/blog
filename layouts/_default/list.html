@@ -4,7 +4,7 @@
     <h1>{{ .Title | title }}</h1>
 
     {{ if .Params.image }}
-    <img src="{{ .Params.image }}" />
+    <img src="{{ .Params.image | relURL }}" />
     {{ end }}
 
     {{ if .Description }}

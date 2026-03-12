@@ -17,23 +17,23 @@ menu:
     weight: -1
   - identifier: photography
     name: "&#xe801;"
-    url: /photography.html
+    url: /photography/
     weight: 1
   - identifier: writings
     name: "&#xe802;"
-    url: /writings.html
+    url: /writings/
     weight: 2
   - identifier: code
     name: "&#xf121;"
-    url: /code.html
+    url: /code/
     weight: 3
   - identifier: projects
     name: "&#xe803;"
-    url: /projects.html
+    url: /projects/
     weight: 4
   - identifier: music
     name: "&#xe804;"
-    url: /music.html
+    url: /music/
     weight: 5
   - identifier: about
     name: "&#xe805;"
