@@ -12,31 +12,31 @@ titleCaseStyle: "Chicago"
 menu:
   main:
   - identifier: home
-    name: "&#xe800;"
+    name: "~/"
     url: /home.html
     weight: -1
   - identifier: photography
-    name: "&#xe801;"
+    name: "./photography"
     url: /photography/
     weight: 1
   - identifier: writings
-    name: "&#xe802;"
+    name: "./writings"
     url: /writings/
     weight: 2
   - identifier: code
-    name: "&#xf121;"
+    name: "./code"
     url: /code/
     weight: 3
   - identifier: projects
-    name: "&#xe803;"
+    name: "./projects"
     url: /projects/
     weight: 4
   - identifier: music
-    name: "&#xe804;"
+    name: "./music"
     url: /music/
     weight: 5
   - identifier: about
-    name: "&#xe805;"
+    name: "./about"
     url: /about.html
     weight: 6
 

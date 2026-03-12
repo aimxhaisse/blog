@@ -1,27 +1,23 @@
-// A theme inspired by Curtana.
-//
-// This is a light-ish version adapted for my needs, it doesn't
-// cover the full spectrum of features Curtana does.
+// /dev/null — dark charcoal, monospace, dotfiles aesthetic.
 
 @import "reset";
 
 // Variables.
 :root {
-    --color-dark-bg: #ffffff;
-    --color-light-bg: #f3f3f3;
-    --color-text: #404040;
-    --color-text-hl: #ff4238;
+    --color-bg:        #1a1a1a;
+    --color-bg-dim:    #111111;
+    --color-bg-inset:  #141414;
+    --color-text:      #c9c9c9;
+    --color-text-mid:  rgba(201, 201, 201, 0.55);
+    --color-text-dim:  rgba(201, 201, 201, 0.30);
+    --color-accent:    #e8a020;
 
-    --color-icon-reset: #000000;
-    --color-icon-hl: #ffe7e5;
-    --color-icon-on: #ff5a51;
-
-    --font-family: "Helvetica Neue", "Segoe UI", sans-serif;
+    --font-family: 'JetBrains Mono', 'Fira Mono', 'Consolas', monospace;
     --space: 24vw;
 }
 
 :root {
-    --font-size: 1.1vw;
+    --font-size: 1.0vw;
     --side-padding: calc(var(--space) * 1.1);
 }
 
@@ -47,8 +43,8 @@ html {
 body {
     font-family: var(--font-family);
     font-size: var(--font-size);
-    line-height: 1.5;
-    background-color: var(--color-dark-bg);
+    line-height: 1.65;
+    background-color: var(--color-bg);
     color: var(--color-text);
 }
 
@@ -58,11 +54,13 @@ p {
 }
 
 p.dark {
-    color: var(--color-text);opacity: 0.4;
+    color: var(--color-text);
+    opacity: 0.3;
 }
 
 p.near-dark {
-    color: var(--color-text);opacity: 0.6;
+    color: var(--color-text);
+    opacity: 0.55;
 }
 
 p.huge {
@@ -75,7 +73,7 @@ a {
 }
 
 a:hover {
-    color: var(--color-text-hl);
+    color: var(--color-accent);
 }
 
 div.small-image-right {
@@ -85,15 +83,15 @@ div.small-image-right {
 }
 
 h1 {
-    line-height: 1.1;
-    font-size: 250%;
+    line-height: 1.15;
+    font-size: 220%;
     font-weight: 700;
-    letter-spacing: -.038em;
+    letter-spacing: -0.02em;
     margin: 2vmin 0 2vmin 0;
 }
 
 small {
-    opacity: 0.65;
+    opacity: 0.6;
     font-size: smaller;
 }
 
@@ -104,14 +102,21 @@ nav {
     ul {
 	li {
 	    display: inline-block;
-	    font-size: 90%;
+	    font-size: 85%;
 	    line-height: 2;
-	    font-weight: 700;
-	    text-transform: uppercase;
-	    padding: .1em 0.5vmax 0 0;
+	    font-weight: 400;
+	    padding: .1em 1.5vmax 0 0;
 
-	    .active{
-		color: var(--color-text-hl);
+	    a {
+		color: var(--color-text-mid);
+	    }
+
+	    a:hover {
+		color: var(--color-accent);
+	    }
+
+	    .active {
+		color: var(--color-accent);
 	    }
 	}
     }
@@ -125,10 +130,13 @@ article {
 	}
 	padding: 4vmin var(--side-padding) 4vmin var(--side-padding);
 	margin: 0 0 8vmin 0;
-	background-color: var(--color-light-bg);
+	background-color: var(--color-bg-dim);
 	font-size: 130%;
-
 	text-align: right;
+
+	small {
+	    color: var(--color-text-dim);
+	}
     }
 
     .audio-icon {
@@ -136,35 +144,59 @@ article {
 	margin: 0 calc(var(--font-size) * 1.5) 0 0;
 	float: left;
     }
-	
+
     #content {
 	font-size: 130%;
 	padding: 0 var(--side-padding) 0 var(--side-padding);
 	margin: 0 0 16vmin 0;
 
 	h2 {
-	    font-size: 90%;
+	    font-size: 85%;
 	    font-weight: 400;
 	    text-transform: lowercase;
 	    margin: 1rem 0 1rem 0;
-	    opacity: 0.5;
+	    color: var(--color-text-dim);
 	}
 
 	li {
-	    font-weight: 500;
+	    font-weight: 400;
 	    font-size: 110%;
 	}
 
+	a {
+	    color: var(--color-accent);
+	    opacity: 0.85;
+	}
+
+	a:hover {
+	    opacity: 1;
+	}
+
+	blockquote {
+	    border-left: 2px solid var(--color-accent);
+	    padding-left: 1rem;
+	    color: var(--color-text-mid);
+	    margin: 1rem 0;
+	}
     }
 }
 
 footer {
-    font-size: 90%;
+    font-size: 85%;
     padding: 0 var(--side-padding) 0 var(--side-padding);
     margin: 0 0 16vmin 0;
+    color: var(--color-text-dim);
 
     li {
 	display: inline;
+    }
+
+    a {
+	color: var(--color-text-dim);
+    }
+
+    a:hover {
+	color: var(--color-accent);
     }
 }
 
@@ -172,36 +204,22 @@ pre {
     word-wrap: normal;
     overflow-x: auto;
     white-space: pre;
-    font-size: 70%;
-    padding: 10px;
+    font-size: 85%;
+    padding: 1rem 1.25rem;
+    background-color: var(--color-bg-inset);
+    border-left: 2px solid var(--color-accent);
+    margin: 1rem 0;
 }
 
-@font-face {
-    font-family: 'fontello';
-    src: url('../font/fontello.eot?71548216');
-    src: url('../font/fontello.eot?71548216#iefix') format('embedded-opentype'),
-         url('../font/fontello.woff?71548216') format('woff'),
-         url('../font/fontello.ttf?71548216') format('truetype'),
-         url('../font/fontello.svg?71548216#fontello') format('svg');
-    font-weight: normal;
-    font-style: normal;
+code {
+    font-family: var(--font-family);
+    background-color: var(--color-bg-inset);
+    padding: 0.1em 0.35em;
+    font-size: 90%;
 }
 
-.icon:hover {
-    text-decoration: none;
-}
-
-.icon {
-    font-family: "fontello";
-    font-style: normal;
-    font-weight: normal;
-    speak: never;
-    display: inline-block;
-    text-decoration: inherit;
-    font-size: 250%;
-    text-align: center;
-    font-variant: normal;
-    text-transform: none;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+pre code {
+    background-color: transparent;
+    padding: 0;
+    font-size: inherit;
 }
