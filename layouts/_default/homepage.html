@@ -1,11 +1,16 @@
 {{ define "main" }}
 <article lang="en">
   <header>
-    <h1><a href="https://mxs.sbrk.org/home.html">mxs.sbrk.org</a></h1>
+    <h1><a href="{{ .Permalink }}">{{ .Site.Title }}</a></h1>
 
-    <img src="img/headers/effb2b50-52ca-4c1c-9e15-4ce2202a3e56.jpg" />
+    {{ if .Params.image }}
+    <img src="{{ .Params.image | relURL }}" />
+    {{ end }}
 
-    <small>a.k.a Sébastien Rannou</small>
+    {{ if .Description }}
+    <small>{{ .Description | safeHTML }}</small>
+    {{ end }}
+
   </header>
   <div id="content">
     <ul>

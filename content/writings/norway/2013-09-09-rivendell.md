@@ -73,4 +73,4 @@ fonctionne mieux).
 
 <img src="/img/norway/jour4-vallee.jpg" data-action="zoom" />
 
-<a href="/writings/norway/2013-09-10-charles-ingalls">La suite par ici...</a>
+<a href="/writings/norway/2013-09-10-charles-ingalls.html">La suite par ici...</a>

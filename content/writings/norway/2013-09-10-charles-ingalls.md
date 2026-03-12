@@ -152,4 +152,4 @@ kilomètres, mais comme on est pas des oiseaux ça sera beaucoup plus).
 <img src="/img/norway/jour5-reflexion.jpg" data-action="zoom" />
 
 
-<a href="/writings/norway/2013-09-11-shortcut">La suite par ici...</a>
+<a href="/writings/norway/2013-09-11-shortcut.html">La suite par ici...</a>

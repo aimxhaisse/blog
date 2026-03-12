@@ -107,4 +107,4 @@ on se brosse les dents avec une lampe frontale de nuit, ne pas plonger
 la tête sous l'eau pour se rincer la bouche, ça peut faire des
 chocapics.
 
-<a href="/writings/norway/2013-09-06-beeeeeh/">La suite par ici...</a>
+<a href="/writings/norway/2013-09-06-beeeeeh.html">La suite par ici...</a>

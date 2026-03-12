@@ -127,4 +127,4 @@ peu. Le premier objectif du voyage est rempli, et on ne sait pas trop
 à quoi va ressembler la suite.
 
 
-<a href="/writings/norway/2013-09-09-rivendell">La suite par ici...</a>
+<a href="/writings/norway/2013-09-09-rivendell.html">La suite par ici...</a>
