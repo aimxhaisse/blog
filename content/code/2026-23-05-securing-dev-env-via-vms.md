@@ -157,7 +157,7 @@ X11 forwarding has deeper implications: it means a compromised VM can
 keylog the host display, this part can likely be improved via stronger
 isolation on the host using `waypipe` for instance.
 
-# Further Readings
+# Wrapping it up
 
 This type of isolation goes a long way if used systematically: it
 limits the blast radius as secrets are not immediately accessible from
@@ -167,4 +167,4 @@ one. It has some drawbacks (VM bug could mean escalation to host, a
 bug in the protocol used by SSH/GPG agents, or X, or pulseaudio could
 be exploited, ...). So it is meant to be combined with other security
 layers ([defense in
-depth](https://en.wikipedia.org/wiki/Defense_in_depth_(computing)))).
+depth](https://en.wikipedia.org/wiki/Defense_in_depth_(computing))).
