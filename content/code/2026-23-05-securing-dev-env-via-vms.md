@@ -3,7 +3,7 @@ categories:
 - code
 - devsec
 date: "2026-05-25T00:00:00Z"
-title: Securing a dev environment: VMs
+title: Securing a dev environment using VMs
 ---
 
 With the increasing number of supply-chain attacks that target
