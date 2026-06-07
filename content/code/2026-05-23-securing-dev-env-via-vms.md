@@ -2,7 +2,7 @@
 categories:
 - code
 - devsec
-date: "2026-05-25T00:00:00Z"
+date: "2026-05-23T00:00:00Z"
 title: Securing dev environments using VMs
 ---
 

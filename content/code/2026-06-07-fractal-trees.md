@@ -1,7 +1,7 @@
 ---
 categories:
 - code
-date: "2026-07-06T00:00:00Z"
+date: "2026-06-07T00:00:00Z"
 title: Fractal Tree (190)
 ---
 
